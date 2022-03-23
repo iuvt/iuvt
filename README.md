@@ -1,16 +1,46 @@
-### Hi there 👋
+# Welcome to my GitHub Profile!
 
-<!--
-**iuvt/iuvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by many names online, some of the most notable being; iuvt, prismo, nyxie, goldduck, and onzii.<br>
 
-Here are some ideas to get you started:
+This profile was created to share some of my projects with the world, mainly Lua scripts for Roblox.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## My Projects
+
+I have many ongoing projects currently, ranging from simple Lua scripts to large-profile Python applications.<br>
+
+The main applications that I use are PyCharm Community (for Python) and Visual Studio & Code (for Other Languages like Lua and Javascript.<br>
+
+<br>
+
+## My Interests
+
+Personally, I have always had a passion and interest in Computers and Coding, leading me to take it up at a young age, however<br>
+
+I never had a usage for my skillset until now, where I have began scripting and coding various apps that I think will make<br>
+
+mine and others' lives a lot easier, with easy to use environments (because I understand how annoying it is when you can't understand a program.<br>
+
+<br>
+
+I consider myself somewhat of a Video-Game enthusiast as I began playing them when I was about 3-4 years old (and still do today).<br>
+
+however the concept of injecting your own code into the game was one of the largest interests for me at the time, and still is!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
