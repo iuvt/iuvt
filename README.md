@@ -8,9 +8,9 @@ This profile was created to share some of my projects with the world, mainly Lua
 
 ## My Projects
 
-I have many ongoing projects currently, ranging from simple Lua scripts to large-profile Python applications.<br>
+Python Projects: Tesser is the only Python3 project I have right now.<br>
 
-The main applications that I use are PyCharm Community (for Python) and Visual Studio & Code (for Other Languages like Lua and Javascript.<br>
+Scripting: I try to make and release a script at least every 2 weeks
 
 <br>
 
