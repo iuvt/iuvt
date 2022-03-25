@@ -6,7 +6,7 @@ This profile was created to share some of my projects with the world, mainly Lua
 
 <br>
 
-## My Projects
+## Education
 
 Lua: 60%<br>
 
