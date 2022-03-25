@@ -8,9 +8,11 @@ This profile was created to share some of my projects with the world, mainly Lua
 
 ## My Projects
 
-Python Projects: Tesser is the only Python3 project I have right now.<br>
+Lua: 60%<br>
 
-Scripting: I try to make and release a script at least every 2 weeks
+Python: 50%<br>
+
+Networking: 40%<br>
 
 <br>
 
