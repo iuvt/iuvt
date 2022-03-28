@@ -4,8 +4,6 @@ I go by many names online, some of the most notable being; iuvt, prismo, nyxie, 
 
 This profile was created to share some of my projects with the world, mainly Lua scripts for Roblox.<br>
 
-<br>
-
 ## Education
 
 Lua: 60%<br>
